@@ -1,2 +1,4 @@
 moviepy
 streamlit
+Pillow
+opencv-python
