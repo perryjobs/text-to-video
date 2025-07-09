@@ -1,6 +1,5 @@
 import streamlit as st
-from moviepy.editor 
-import VideoFileClip, concatenate_videoclips, CompositeVideoClip, TextClip
+from moviepy.editor import VideoFileClip, concatenate_videoclips, CompositeVideoClip, TextClip
 import os
 from typing import List
 
